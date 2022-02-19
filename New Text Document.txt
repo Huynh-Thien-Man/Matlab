@@ -1,0 +1,12 @@
+example_real: ví dụ thực tế cho bài toán IVP cấp 1
+example_real3: ví dụ thực tế cho bài toán IVP cấp 2
+
+onestepmethod: Code phương pháp 1 bước (Euler, RK2, RK4)
+predictor_corrector: phương pháp Dự đoán hiệu chỉnh Adam-Bashforth-Moulton bậc 4 
+other_predictor_corrector: phương pháp Dự đoán hiệu chỉnh của milne-simpson
+
+second_order1: code cho bài toán IVP cấp 2 (Euler,RK2,RK4,Adam,Milne)
+
+mainnn: 2 phần : 1 phần là bài toán ví dụ , 1 phần là vẽ hình 
+main2: 2 phần : 1 phần là bài toán ví dụ , 1 phần là vẽ hình 
+
